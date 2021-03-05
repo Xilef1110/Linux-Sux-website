@@ -1,4 +1,7 @@
 body {
     background-color: aquamarine;
-    font-family: sans-serif;    
+    font-family: sans-serif;
+}
+html {
+    background: radial-gradient(circle, SkyBlue);
 }
