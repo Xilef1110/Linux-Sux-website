@@ -23,3 +23,8 @@ p {
 b {
     color: black;
 }
+ul.list {
+    background-color: lightgreen;
+    border: 2px solid;
+    border-radius: 5px;
+}
